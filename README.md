@@ -1,3 +1,6 @@
+**Japan-Household-Consumption-2000-2017-Structural-Analysis**
+
+
 MARKET SEGMENTATION & CONSUMPTION ELASTICITY ANALYSIS: Japan HH Expenditure (2000-2017)
 
 Enterprise-grade explanatory data analysis (EDA) challenging market homogeneity 
