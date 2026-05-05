@@ -36,7 +36,7 @@ Organizations using aggregated market metrics systematically **underestimate mar
 
 ---
 
-## 📊 Dataset & Data Source
+##  Dataset & Data Source
 
 | Attribute | Specification |
 |-----------|---------------|
@@ -58,7 +58,7 @@ Organizations using aggregated market metrics systematically **underestimate mar
 
 ---
 
-## 🔍 Key Findings & KPI Analysis
+##  Key Findings & KPI Analysis
 
 ### Phase 1: Market Expansion (2000-2008)
 - **HH Expenditure Growth:** +2.3% CAGR across all segments
@@ -116,7 +116,7 @@ Organizations using aggregated market metrics systematically **underestimate mar
 
 ---
 
-## 🎯 Critical KPI Bottlenecks Identified
+##  Critical KPI Bottlenecks Identified
 
 ### **1. Market Concentration Risk** 
 - **Finding:** Premium tier now represents **62% of discretionary spend growth** (vs. 28% in 2000)
@@ -149,7 +149,3 @@ Organizations using aggregated market metrics systematically **underestimate mar
 - **Remediation:** Portfolio rebalancing by tier; SKU rationalization; category investment prioritization matrix
 
 ---
-
-## 📈 Methodology & Analytical Framework
-
-### **Phase 1: Data Ingestion & Validation**
